@@ -1,7 +1,7 @@
 {
     "name": "Rakuten Securities NISA Clear View",
     "version": "1.0",
-    "description": "A Google Chrome extension for improve the UI of https://www.rakuten-sec.co.jp/web/nisa/",
+    "description": "A Google Chrome extension for improving the UI of https://www.rakuten-sec.co.jp",
     "permissions": [
         "activeTab",
         "declarativeContent",
